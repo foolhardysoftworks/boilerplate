@@ -1,0 +1,17 @@
+{    
+    "development": {
+	"name": "[NAME]",
+	"module": "[MODULE]",
+    },
+    "production": {
+	"name": "[NAME]",
+	"module": "[MODULE]",
+    },
+    "scripts": {
+	"name": "[NAME]",
+	"host": "[IPADDRESS]",
+	"port": "[PORT]",
+	"adminHost": "[IPADDRESS]",
+	"adminPort": "[PORT]",
+    }
+}
